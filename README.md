@@ -1,2 +1,3 @@
 # RESTful-api
-RESTful api that works with mongoDB.
+Basic RESTful api implementation with mongoDB.
+Support CRUD operations on "devices" in the DB.
